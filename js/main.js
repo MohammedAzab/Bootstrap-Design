@@ -1,6 +1,6 @@
 $(function(){
   // navbar
-  $('.navbar-nav>li').click(function(){
+  $('.navbar-nav>li:not(:last-child)').click(function(){
     $(this).addClass('active').siblings().removeClass('active');
   })
 
