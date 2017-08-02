@@ -1,0 +1,43 @@
+
+.maincolor,
+.features i,
+.works .overlay .i:first-of-type,
+.company .i,
+.team .person-info .social-over .icons .icon-cover,
+.main-devoloper .btn{
+	color: #875F9A;
+}
+.section-head .welcome .h2:after,
+.section-head .welcome .h2:before,
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover,
+.main-back-color,
+.key-icon,
+.port button:hover,
+.port .i:hover,
+.features2 .feat:hover i,
+.info,
+.main-devoloper,
+.footer i:hover{
+	background: #875F9A !important;
+}
+.section-head .welcome::after,
+.section-head .welcome::before,
+.works .overlay,
+.team .person-info .social-over{
+	background: rgba(136, 95, 155, 0.81);
+}
+
+.c100.green .bar, .c100.green .fill {border-color: #875F9A   !important;}
+.c100.green:hover > span {
+    color: #875F9A;
+}
+
+.custom-btn{
+	color: #fff !important;
+	background-color: #875F9A !important;
+	border-color: #875F9A !important;
+}
+.custom-btn:hover{
+	color: #fff !important;
+	background-color: #875F9A !important;
+}
